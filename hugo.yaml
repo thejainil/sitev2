@@ -1,0 +1,27 @@
+baseURL: ""
+languageCode: en-us
+title: 
+theme: PaperMod
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Essays"
+      url: "/essays/"
+      weight: 2
+    - name: "Proof of Work"
+      url: "https://www.notion.so"
+      weight: 3
+
+params:
+  archives:
+    enable: true  # Enable archive functionality
+    yearwise: true  # Group by year
+    monthwise: false  # Don't group by month
+  layout:
+    archives: "list"
+
+params:
+  customCSS: ["css/custom.css"]
+
