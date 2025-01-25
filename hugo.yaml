@@ -1,4 +1,5 @@
-baseURL: ""
+baseURL: "https://superb-heliotrope-4be49e.netlify.app/"
+
 languageCode: en-us
 title: 
 theme: PaperMod
