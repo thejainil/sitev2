@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap');
+
+/* Apply the font to the whole site */
+body {
+    font-family: 'Ovo', serif !important;
+}
+
+/* Optionally, target specific elements */
+h1, h2, h3, p {
+    font-family: 'Ovo', serif !important;
+}
+

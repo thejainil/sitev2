@@ -22,6 +22,5 @@ params:
   layout:
     archives: "list"
 
-params:
-  customCSS: ["css/custom.css"]
+baseURL: "https://superb-heliotrope-4be49e.netlify.app/"
 
