@@ -1,0 +1,7 @@
+build:
+  command: "hugo"
+  publish: "public"
+
+environment:
+  HUGO_VERSION: "0.141.0"
+  HUGO_EXTENDED: "true"
