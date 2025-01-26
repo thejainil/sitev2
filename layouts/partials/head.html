@@ -37,8 +37,9 @@
 {{- end }}
 
 {{- /* Styles */}}
-<link rel="stylesheet" href="/assets/css/custom.css">
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="{{ "assets/css/custom.css" | absURL }}">
+<link rel="stylesheet" href="{{ "assets/css/main.css" | absURL }}">
+
 
 {{- /* includes */}}
 {{- $includes := slice }}
